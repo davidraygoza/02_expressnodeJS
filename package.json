@@ -1,0 +1,23 @@
+{
+  "name": "02_expressnodejs",
+  "version": "1.0.0",
+  "description": "Example ExpressNodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidraygoza/02_expressnodeJS.git"
+  },
+  "author": "David Israel Raygoza Ramírez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidraygoza/02_expressnodeJS/issues"
+  },
+  "homepage": "https://github.com/davidraygoza/02_expressnodeJS#readme"
+}
