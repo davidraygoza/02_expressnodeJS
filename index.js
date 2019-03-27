@@ -4,7 +4,10 @@ app.get('/', (req, res) => {
 	res.send("hello world");
 });
 app.get('/about',(req, res) => {
-	res.send('About');
+	res.send('About GET');
+});
+app.post('/about',(req, res) => {
+	res.send('About POST');
 });
 app.get('/contact',(req, res) => {
 	res.send('form contact');
